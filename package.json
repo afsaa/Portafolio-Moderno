@@ -9,6 +9,7 @@
   "author": "Andrés Fernando Saa",
   "license": "MIT",
   "dependencies": {
-    "node-sass": "^4.9.2"
+    "node-sass": "^4.9.2",
+    "npm": "^6.4.1"
   }
 }
